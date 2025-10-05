@@ -18,7 +18,7 @@ I have authored and translated several books, including:
 
 ## Projects & Repositories
 
-- **Anti-Entropic Rescue**  
+- **Anti-Entropic Rescue theory**  
   - [OSF](https://doi.org/10.17605/OSF.IO/J2CQM)  
   - [Zenodo](https://doi.org/10.5281/zenodo.17096275)
 
